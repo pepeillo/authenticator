@@ -1,0 +1,18 @@
+<resources>
+    <string-array name="create_options">
+        <item>Create from parameters</item>
+        <item>Create scanning QR code</item>
+    </string-array>
+
+    <string-array name="algorithms">
+        <item>SHA1</item>
+        <item>SHA256</item>
+        <item>SHA512</item>
+    </string-array>
+
+    <string-array name="periods">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+</resources>
